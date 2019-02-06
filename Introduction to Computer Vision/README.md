@@ -6,25 +6,25 @@ Input data -> Pre-processing -> Area of interest selection -> Feature extraction
 
 These lessons cover tools for pre-processing and CNNs for feature extraction.
 
-### [Lesson 2]()
+### [Lesson 2](https://github.com/wildOsprey/nano-cv/tree/master/Introduction%20to%20Computer%20Vision/Lesson2)
 Representation of the image. Result mini-project: day-night classifier.
 
-### [Lesson 3]()
+### [Lesson 3](https://github.com/wildOsprey/nano-cv/tree/master/Introduction%20to%20Computer%20Vision/Lesson3)
 Filters. Included some notes.
 
-### [Lesson 4]()
+### [Lesson 4](https://github.com/wildOsprey/nano-cv/tree/master/Introduction%20to%20Computer%20Vision/Lesson4)
 Types of features and image segmentation. Included some notes.
 
-### [Lesson 5]()
+### [Lesson 5](https://github.com/wildOsprey/nano-cv/tree/master/Introduction%20to%20Computer%20Vision/Lesson5)
 Oriented FAST and Rotated BRIEF (ORB) as a feature extractor.
 
-### [Lesson 6]()
+### [Lesson 6](https://github.com/wildOsprey/nano-cv/tree/master/Introduction%20to%20Computer%20Vision/Lesson6)
 CNNs. FashionMNIST recognition with PyTorch.
 
-### Facial Keypoints
+### [Facial Keypoints](https://github.com/wildOsprey/nano-cv/tree/master/Introduction%20to%20Computer%20Vision/P1_Facial_Keypoints)
 Facial Keypoints Detector. There are Jupyter Notebooks with the all information to know.
 
-###Useful links
+### Useful links
 [Harris corner detector intuition](http://www.cse.psu.edu/~rtc12/CSE486/lecture06.pdf)
 
 [Frequency in images - ru](https://askentire.net/q/%D0%A7%D1%82%D0%BE-%D0%BE%D0%B7%D0%BD%D0%B0%D1%87%D0%B0%D0%B5%D1%82-%D1%87%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%B0-%D0%B2-%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8-24895905329)
